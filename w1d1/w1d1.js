@@ -59,3 +59,5 @@ function futureValue(p,i,n,t){
 // P = 1700) deposited in a bank that pays an annual interest rate of 4.7% (i = 0.047), compounded quarterly (n = 4) after 6 years (t = 6) 
 
 console.log("this is my work");
+
+// this is just a test for github
